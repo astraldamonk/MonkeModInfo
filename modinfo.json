@@ -54,14 +54,11 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
-    "name": "Tic Tac Toe",
-    "author": "Husky",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "HuskyGT/TicTacToe",
+    "name": "GorillaShirts",
+    "author": "developer9998",
+    "git_path": "developer9998/GorillaShirts",
     "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/v1.1.10/GorillaShirts.dll"
   },
   {
     "name": "Utilla",
