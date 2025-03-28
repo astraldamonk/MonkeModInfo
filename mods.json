@@ -61,15 +61,12 @@
 			"group": "Libraries"
 		},
 		{
-			"name": "GOOMPS",
+			"name": "iis Stupid Menu",
 			"tag": "",
-			"gitPath": "BzzzThe18th/GOOMPS",
+			"gitPath": "iiDk-the-actual/iis.Stupid.Menu",
 			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Cheats / Mods",
-			"dependencies": [
-				"Utilla"
-			]
+			"author": "iidk",
+			"group": "Cheats / Mods"
 		},
 		{
 			"name": "bHaptics",
