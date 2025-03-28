@@ -2,7 +2,6 @@
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
-    "version": "5.4.23.2",
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
@@ -10,7 +9,6 @@
   {
     "name": "Bepinject",
     "author": "Auros",
-    "version": "1.0.1",
     "dependencies": [
       "Extenject"
     ],
@@ -22,7 +20,6 @@
   {
     "name": "Extenject",
     "author": "svermeulen",
-    "version": "1.0.1",
     "install_location": "BepInEx/plugins",
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
@@ -38,7 +35,6 @@
   {
     "name": "HoneyLib",
     "author": "buzzbb",
-    "version": "1.1.1",
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.1/HoneyLib.dll"
@@ -46,7 +42,6 @@
   {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
-    "version": "12.0.3",
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
@@ -54,7 +49,6 @@
   {
     "name": "TMPLoader",
     "author": "ahauntedarmy",
-    "version": "1.0.2",
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
@@ -62,7 +56,6 @@
   {
     "name": "Tic Tac Toe",
     "author": "Husky",
-    "version": "1.0.3",
     "dependencies": [
       "Utilla"
     ],
@@ -73,7 +66,6 @@
   {
     "name": "Utilla",
     "author": "iiDk",
-    "version": "1.6.16",
     "git_path": "iiDk-the-actual/Utilla-Public",
     "group": "Core",
     "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.16/Utilla.dll"
@@ -81,7 +73,6 @@
   {
     "name": "bHaptics",
     "author": "Florian Fahrenberger",
-    "version": "3.0.1",
     "git_path": "floh-bhaptics/GorillaTag_bhaptics",
     "group": "Cheats / Mods",
     "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
