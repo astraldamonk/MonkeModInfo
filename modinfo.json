@@ -29,15 +29,11 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
-    "name": "GOOMPS",
-    "author": "buzzbb",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/GOOMPS",
+    "name": "iis Stupid Menu",
+    "author": "iiDk",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Cheats / Mods",
-    "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu.dll"
   },
   {
     "name": "HoneyLib",
