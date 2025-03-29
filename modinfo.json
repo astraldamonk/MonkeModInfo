@@ -68,10 +68,10 @@
     "download_url": "https://github.com/iiDk-the-actual/Utilla-Public/releases/download/1.6.16/Utilla.dll"
   },
   {
-    "name": "bHaptics",
-    "author": "Florian Fahrenberger",
-    "git_path": "floh-bhaptics/GorillaTag_bhaptics",
+    "name": "YizziCamMod",
+    "author": "yizzy",
+    "git_path": "astraldamonk/yizzyv2formmm",
     "group": "Cheats / Mods",
-    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
+    "download_url": "https://github.com/astraldamonk/yizzyv2formmm/releases/download/1.0.0/YizziCamModV2.dll"
   }
 ]
