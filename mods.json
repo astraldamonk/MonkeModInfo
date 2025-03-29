@@ -77,15 +77,12 @@
 			"group": "Cheats / Mods"
 		},
 		{
-			"name": "Tic Tac Toe",
+			"name": "GorillaShirts",
 			"tag": "",
-			"gitPath": "HuskyGT/TicTacToe",
+			"gitPath": "developer9998/GorillaShirts",
 			"releaseId": 0,
-			"author": "Husky",
-			"group": "Gameplay",
-			"dependencies": [
-				"Utilla"
-			]
+			"author": "developer9998",
+			"group": "Gameplay"
 		},
 		{
 			"name": "Spatial Gorilla",
