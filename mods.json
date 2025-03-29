@@ -77,6 +77,14 @@
 			"group": "Gameplay"
 		},
 		{
+			"name": "YizziCamModV2",
+			"tag": "",
+			"gitPath": "astraldamonk/yizzyv2formmm",
+			"releaseId": 0,
+			"author": "yizzy",
+			"group": "Gameplay"
+		},
+		{
 			"name": "GorillaShirts",
 			"tag": "",
 			"gitPath": "developer9998/GorillaShirts",
