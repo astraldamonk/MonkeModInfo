@@ -74,4 +74,11 @@
     "group": "Gameplay",
     "download_url": "https://github.com/astraldamonk/yizzyv2formmm/releases/download/1.0.0/YizziCamModV2.dll"
   }
+  {
+    "name": "UnityExplorer",
+    "author": "sinai-dev",
+    "git_path": "sinai-dev/UnityExplorer",
+    "group": "Gameplay",
+    "download_url": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.9.0/UnityExplorer.BepInEx5.Mono.zip"
+  }
 ]
