@@ -77,11 +77,11 @@
 			"group": "Gameplay"
 		},
 		{
-			"name": "YizziCamModV2",
+			"name": "UnityExplorer",
 			"tag": "",
-			"gitPath": "astraldamonk/yizzyv2formmm",
+			"gitPath": "sinai-dev/UnityExplorer",
 			"releaseId": 0,
-			"author": "yizzy",
+			"author": "sinai-dev",
 			"group": "Gameplay"
 		},
 		{
